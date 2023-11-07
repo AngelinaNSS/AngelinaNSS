@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @AngelinaNSS
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AngelinaNSS/AngelinaNSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Future of Medicine and Nutrition with Sustainability and Ethical Considerations
+https://www.google.ca/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fhow-personal-will-nutritional-advice-become-in-the-future-medicine-made-for-you-part-2-132387&psig=AOvVaw2VkZZBxo7t2j5iAfcZbvUY&ust=1699439385286000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODJkpnXsYIDFQAAAAAdAAAAABAE![image](https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/50c9021d-2604-4781-8e35-f5a3a9baae2b)
+The future of medical nutrition will need to consider the environmental impact of dietary choices and address ethical concerns related to food production, animal welfare, and sustainable sourcing. 
+Sustainable and ethical nutrition practices will be important for the long-term health of both individuals and the planet.
