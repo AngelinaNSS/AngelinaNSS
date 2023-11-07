@@ -1,4 +1,4 @@
 # Future of Medicine and Nutrition with Sustainability and Ethical Considerations
-https://www.google.ca/url?sa=i&url=https%3A%2F%2Ftheconversation.com%2Fhow-personal-will-nutritional-advice-become-in-the-future-medicine-made-for-you-part-2-132387&psig=AOvVaw2VkZZBxo7t2j5iAfcZbvUY&ust=1699439385286000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODJkpnXsYIDFQAAAAAdAAAAABAE![image](https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/50c9021d-2604-4781-8e35-f5a3a9baae2b)
 The future of medical nutrition will need to consider the environmental impact of dietary choices and address ethical concerns related to food production, animal welfare, and sustainable sourcing. 
 Sustainable and ethical nutrition practices will be important for the long-term health of both individuals and the planet.
+<img width="379" alt="Screen Shot 2023-11-07 at 11 38 18 AM" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/2d67c724-81be-4bd8-9ac6-a0da31deb144">
