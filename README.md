@@ -30,14 +30,22 @@ A device that can continuously monitor your sugar levels, and tell you what food
 
 
 Telehealth and Virtual Nutrition Counseling: 
+
 Telehealth services and virtual consultations can make nutrition advice more accessible to a broader audience. This is particularly beneficial for individuals in remote areas or those with limited access to healthcare services.
 
 
 AI-Powered Nutritional Analysis: 
+
 Artificial intelligence can analyze vast datasets to identify patterns and correlations related to nutrition and health. AI algorithms can provide personalized dietary recommendations based on individual health data.
 AI can analyze individual health data, including genetic information, lifestyle, and dietary preferences, to provide personalized nutrition recommendations. This ensures that individuals receive dietary advice tailored to their specific needs, body compostitions, or genetic makeup.
 The future of AI-powered systems could potentially monitor and ensure the quality and safety of food products. This includes detecting contaminants, spoilage, and fraudulent practices in the food supply chain, thereby enhancing food safety.
 
-Biometric Sensors and Wearables: Biometric sensors and wearables can provide real-time data on individuals' health metrics, allowing for more accurate and personalized nutritional recommendations.
+
+![image](https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/d2f74852-f6ee-40f7-b3f0-5dc173898449)
+
+
+
+Biometric Sensors and Wearables: 
+Biometric sensors and wearables can provide real-time data on individuals' health metrics, allowing for more accurate and personalized nutritional recommendations.
 
 
