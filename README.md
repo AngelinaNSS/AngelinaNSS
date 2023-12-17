@@ -26,7 +26,8 @@ A device that can continuously monitor your sugar levels, and tell you what food
 3D Printing of Food: 
 3D printing technology can be used to create customized food items with specific nutritional profiles. This has the potential to address individual dietary needs and preferences more precisely.
 
-https://images.app.goo.gl/FEWXteD1hRHswdfi8
+![image](https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/f93baf3d-edc1-4728-ad2e-d785f8f4769d)
+
 
 Telehealth and Virtual Nutrition Counseling: 
 Telehealth services and virtual consultations can make nutrition advice more accessible to a broader audience. This is particularly beneficial for individuals in remote areas or those with limited access to healthcare services.
