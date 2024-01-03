@@ -1,7 +1,7 @@
 # Introduction
 
-
-
+Hello, 
+In my blog I delve into the fascinating realm of AI's potential to shape the future of nutrition and medicine, exploring innovative technologies and their impact on food production, supply chains, personalized dietary recommendations, and overall health. I am very interested and a passionate about the intersection of artificial intelligence and nutrition. I am exploring the possibilities AI presents in optimizing nutrition, reducing food waste, and revolutionizing the way we approach healthy living. Join me on this journey as we navigate how our evolving technology meets the world of nutrition, creating a healthier and more sustainable future for everyone on the planet.
 
 
 
@@ -191,5 +191,8 @@ As well as "Computer Vision for Quality Control," or "Robotic Inspection." AI-po
 With this robotic technology in restaurants or other food service industries, we could also create more accurate decontamination or better sanitization technologies reducing the risk of spread of pathogens, and food born illnesses. For example, using more "UV Sterilization," on dishware in restaraunts, hotels, senior care homes, or other food service industries. This method of sanitization is very effective in altering the structure of DNA, RNA, and proteins, preventing microorganisms from multiplying, rendering them unable to reproduce and cause infections. 
 This technology is available now, however in the future,we could improve this technology, and make it more available and affordable for certain busnesses where maintaining a sterile environment is critical.
 UV sterilization is a valuable tool for disinfection, as it provides a chemical-free and efficient method to reduce the microbial load in various environments.
+
+![uv sterilizer](https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/ae3af91e-ac82-44b9-8ae5-a2ee377c88cb) 
+
 
 
