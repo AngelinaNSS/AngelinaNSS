@@ -165,13 +165,12 @@ AI-powered imaging and monitoring technologies can enhance the monitoring of fet
 
 # Could AI and Robotic technology aid buisnesseses in the food industry in the future?
 
-AI and more robotic development has the potential to revolutionize the food industry in many different ways, offering businesses new opportunities for efficiency, innovation, and customer engagement. There are several ways this neew technology could benefit businesses in the food industry in the future; for example:
+AI and more robotic development has the potential to revolutionize the food industry in many different ways, offering businesses new opportunities for efficiency, innovation, and customer engagement. One of the biggest problems that restaraunts and other food service industries are facing, is Food Waste. It is estimated that around one-third of all food produced globally is wasted. This has a significant environmental impact and is leading to valuable resources and financial losses for businesses. A solution to this problem can be to create Technological advancements to further help reduce food waste. An example ofo such an advancement is using artificial intelligence and machine learning algorithms to analyze data and predict food demand more accurately. There are several ways these new technologies could benefit businesses in the food industry in the future. Some other examples include:
 
-1. Supply Chain Optimization:
+1. Artificial Intelligence to manage food waste:
 
-AI can enhance supply chain management by predicting demand based off of what customers have consumed, optimizing inventory levels, and improving overall logistics. This can help reduce waste, lower costs, and ensure timely delivery of ingredients.
 
-2. Menu Optimization:
+3. Menu Optimization:
    
 AI can analyze individual preferences, dietary restrictions, and health data to provide personalized nutrition recommendations. This could lead to the development of customized food products or meal plans. Restaurants and food service businesses can use AI to analyze customer preferences, track popular trends, and optimize their menus. This can help businesses tailor their offerings to meet customer expectations and boost sales.
 
@@ -191,7 +190,7 @@ There are several advantages of using robots in food service. Robots can work fa
    
 Putting the use of AI technology in the food industry holds great potential to enhance food safety. Methods like "Predictive Analytics"
 to analyze historical data on food safety incidents, supply chain information, and environmental factors to predict potential risks. This enables proactive measures to be taken to prevent contamination or other safety issues. 
-As well as "Computer Vision for Quality Control," or "Robotic Inspection." AI-powered computer vision systems can inspect and identify potential contaminants, defects, or abnormalities in food products during the production process. AI-driven robotic systems can be used for precise and automated inspection of food products. These robots would be programmed to perform tasks such as cleaning, sorting, and quality assessment, The use of this technology can significantly reduce the risk of human errors. 
+As well as "Robotic Inspection." AI-powered computer vision systems can inspect and identify potential contaminants, defects, or abnormalities in food products during the production process. AI-driven robotic systems can be used for precise and automated inspection of food products. These robots would be programmed to perform tasks such as cleaning, sorting, and quality assessment, The use of this technology can significantly reduce the risk of human errors. 
 
 
 
