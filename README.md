@@ -52,19 +52,24 @@ To Make the script executable:
 
 Lastly I used the "at" command to Schedule the reminder and to schedule the script to run at a specific time:
 
+
 I had to manually install the command "at" on to my ubuntu using: "sudo apt-get install at" on my Terminal. This command  allows you to schedule a one-time job to be executed at a specific time in the future. In case, I wanted to schedule my vitamin reminder script to run at a specific time.
 
 
 <img width="477" alt="Screenshot 2024-02-02 at 18 51 44" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/6a5d58cf-86a1-4369-97f6-d1fc151a74e8">
 
+
 The Time I set it to was 15:30🕞 every day!
+
+
+
 
 
 To make sure that my automation was running properly, there were three ways that I used to check:
 
-The first way was to wait for the Time: 15:30 for a notification to pop up on my screen.
+- The first way was to wait for the Time: 15:30 for a notification to pop up on my screen.
 
-The second was to check, I opened Terminal on my Ubuntu and typed the command 'atq'. 
+- The second was to check, I opened Terminal on my Ubuntu and typed the command 'atq'. 
 Just like the 'at' command, I also had to manually install this: for which I used the command -
 
 <img width="396" alt="Screenshot 2024-02-02 at 19 22 54" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/edcf4281-84e4-43be-9fd1-f7fac084b2c6">
@@ -73,7 +78,8 @@ Just like the 'at' command, I also had to manually install this: for which I use
 This 'atq' command displayed the job numbers and the times they are scheduled to run. Since my vitamin reminder was scheduled, I was able to see it in the list.
 
 
-The Third way I could Manually Trigger the Reminder:
+- The Third way I could Manually Trigger the Reminder:
+
 I wanted to quickly test my script without waiting for the scheduled time, so I learned how to execute it manually. I went to the script's directory and typed the command: 
 
 
