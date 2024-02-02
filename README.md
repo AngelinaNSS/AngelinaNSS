@@ -60,6 +60,29 @@ I had to manually install the command "at" on to my ubuntu using: "sudo apt-get 
 The Time I set it to was 15:30🕞 every day!
 
 
+To make sure that my automation was running properly, there were three ways that I used to check:
+
+The first way was to wait for the Time: 15:30 for a notification to pop up on my screen.
+
+The second was to check, I opened Terminal on my Ubuntu and typed the command 'atq'. 
+Just like the 'at' command, I also had to manually install this: for which I used the command -
+
+<img width="396" alt="Screenshot 2024-02-02 at 19 22 54" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/edcf4281-84e4-43be-9fd1-f7fac084b2c6">
+
+
+This 'atq' command displayed the job numbers and the times they are scheduled to run. Since my vitamin reminder was scheduled, I was able to see it in the list.
+
+
+The Third way I could Manually Trigger the Reminder:
+I wanted to quickly test my script without waiting for the scheduled time, so I learned how to execute it manually. I went to the script's directory and typed the command: 
+
+
+
+<img width="424" alt="Screenshot 2024-02-02 at 19 21 41" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/f66b2f96-165c-487b-bb04-74f3d68f7714">
+
+
+
+
 I did encounter several problems along the way. Many times when i tried to execute a certain command, I had recieved alot of "Syntax Error" while trying to run the script. So I had to go back many times and check any mistakes I have made. I had to check for Errors in the message, and review the script.
 
 
