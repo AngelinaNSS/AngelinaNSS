@@ -9,15 +9,20 @@ For my Automation Project, I have created a "simple reminder program," to help m
 In my blog I will also discuss the fascinating realm of AI's potential to shape the future of nutrition and medicine, exploring innovative technologies and their impact on our futures food production, supply chains, personalized dietary recommendations, and overall health. I am very  passionate about studying Nutrition, as I studied it back home, and I have gained a new interest to combine Nutrition with artificial intelligence technology. I am exploring the possibilities AI presents in optimizing nutrition, reducing food waste, and revolutionizing the way we approach healthy living. I hope you enjoy my blog, and how our evolving technology meets the world of nutrition, creating a healthier and more sustainable future for everyone on the planet.
 
 
-# My Automation Project:  Notifications to remind me to take my vitamins at a certain time during the day.
+# My Automation Project:  A Notification to remind me to take my vitamins!  (at a certain time during the day.)
 
 - Problem and Context of the Automation:
 
 To begin the "Creating a reminder system on Ubuntu," I use a combination of a command-line tool on Ubuntu and the ssh command to trigger a notification, to notify me on my Mac.
+
+
 <img width="392" alt="Screenshot 2024-02-02 at 15 06 52" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/2369023d-0b68-450d-8f9c-57767fcdaf47">
 
 For the next process I needed to "Create a script for the reminder":
 The script i chose was called "vitamin_reminder.sh" using a text editor:
+
+
+
 <img width="389" alt="Screenshot 2024-02-02 at 15 09 01" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/71adc6b7-4309-470b-8adc-0e40de7dbfbe">
 
 
