@@ -89,6 +89,10 @@ I wanted to quickly test my script without waiting for the scheduled time, so I 
 
 
 
+
+
+
+
 I did encounter several problems along the way. Many times when i tried to execute a certain command, I had recieved alot of "Syntax Error" while trying to run the script. So I had to go back many times and check any mistakes I have made. I had to check for Errors in the message, and review the script.
 
 
