@@ -1,6 +1,6 @@
 # Introduction
 
-Have you ever needed to take medication or vitamins at a certain scheduled time? 
+# Have you ever needed to take medication or vitamins at a certain scheduled time? 
 
 
 For my Automation Project, I have created a "simple reminder program," to help me remember to take certain vitamins I need during the winter. I grew up in Canada so I am used to long, dark, cold winters. This problem causes many individuals to experience very low vitamin D levels, which is a vitamin that is also needed for our bodies to absorb calcium. Me and my family are annually prescribed vitamin D tablets, however, I always forget to take these tablets on a daily basis. Now that I am living in Germany, I want to make it a priorityy to take the necessary vitamins I need to stay healthy and prevent illness. With this automation, it has encouraged and reminded me to take my tablets daily, and has helped me with my forgetfulness.
@@ -10,6 +10,11 @@ In my blog I will also discuss the fascinating realm of AI's potential to shape 
 
 
 # My Automation Project:  Notifications to remind me to take my vitamins at a certain time during the day.
+
+- Problem and Context of the Automation:
+
+To begin the "Creating a reminder system on Ubuntu," I use a combination of a command-line tool on Ubuntu and the ssh command to trigger a notification, to notify me on my Mac.
+<img width="392" alt="Screenshot 2024-02-02 at 15 06 52" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/2369023d-0b68-450d-8f9c-57767fcdaf47">
 
 
 
