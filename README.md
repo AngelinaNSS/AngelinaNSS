@@ -9,6 +9,11 @@ For my Automation Project, I have created a "simple reminder program," to help m
 In my blog I will also discuss the fascinating realm of AI's potential to shape the future of nutrition and medicine, exploring innovative technologies and their impact on our futures food production, supply chains, personalized dietary recommendations, and overall health. I am very  passionate about studying Nutrition, as I studied it back home, and I have gained a new interest to combine Nutrition with artificial intelligence technology. I am exploring the possibilities AI presents in optimizing nutrition, reducing food waste, and revolutionizing the way we approach healthy living. I hope you enjoy my blog, and how our evolving technology meets the world of nutrition, creating a healthier and more sustainable future for everyone on the planet.
 
 
+# My Automation Project:  Notifications to remind me to take my vitamins at a certain time during the day.
+
+
+
+
 
 # The Future of Medicine and Nutrition with technological advancements 
 
