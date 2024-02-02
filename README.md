@@ -29,6 +29,33 @@ The script i chose was called "vitamin_reminder.sh" using a text editor:
 
 
 
+Next I used "osascript" on macOS, it is a command-line tool that allows you to run AppleScript commands from the terminal.
+
+
+
+<img width="513" alt="Screenshot 2024-02-02 at 18 49 02" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/7d9aaffb-7fa5-4e04-b2b4-192b7d527a11">
+
+
+
+<img width="503" alt="Screenshot 2024-02-02 at 18 48 48" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/bfc98a48-820e-47ad-b4b9-4b466fecf45e">
+
+To Make the script executable:
+
+
+
+<img width="412" alt="Screenshot 2024-02-02 at 18 50 31" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/e5e89f56-5efd-4406-9a6a-ac195381f617">
+
+
+Lastly I used the "at" command to Schedule the reminder and to schedule the script to run at a specific time:
+
+I had to manually install the command "at" on to my ubuntu using: 
+
+
+<img width="477" alt="Screenshot 2024-02-02 at 18 51 44" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/6a5d58cf-86a1-4369-97f6-d1fc151a74e8">
+
+The Time I set it to was 15:30 every day!
+
+
 # The Future of Medicine and Nutrition with technological advancements 
 
 
