@@ -16,6 +16,10 @@ In my blog I will also discuss the fascinating realm of AI's potential to shape 
 To begin the "Creating a reminder system on Ubuntu," I use a combination of a command-line tool on Ubuntu and the ssh command to trigger a notification, to notify me on my Mac.
 <img width="392" alt="Screenshot 2024-02-02 at 15 06 52" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/2369023d-0b68-450d-8f9c-57767fcdaf47">
 
+For the next process I needed to "Create a script for the reminder":
+The script i chose was called "vitamin_reminder.sh" using a text editor:
+<img width="389" alt="Screenshot 2024-02-02 at 15 09 01" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/71adc6b7-4309-470b-8adc-0e40de7dbfbe">
+
 
 
 
