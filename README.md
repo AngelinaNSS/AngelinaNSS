@@ -100,7 +100,8 @@ I wanted to quickly test my script without waiting for the scheduled time, so I 
 
 
 
-I did encounter several problems along the way. Many times when i tried to execute a certain command, I had recieved alot of "Syntax Error" while trying to run the script. So I had to go back many times and check any mistakes I have made. I had to check for Errors in the message, and review the script. Also when I was checking to see if the project was working and I typed the "at" command, it showed me a pop up that said "Garbled Time" indicating that something was wrong, so I also had to research ways to avoid this. I had to make sure my Ubuntu system was up to date, so I used the command "sudo apt-get update" and "sudo apt-get upgrade."
+I did encounter several problems along the way. Many times when i tried to execute a certain command, I had recieved alot of "Syntax Error" while trying to run the script. So I had to go back many times and check any mistakes I have made. I had to check for Errors in the message, and review the script. Also when I was checking to see if the project was working and I typed the "at" command, it showed me a pop up that said "Garbled Time" indicating that something was wrong, so I also had to research ways to avoid this. The "garbled time" error with the "at" command occurs when there's an issue with the time format tha I was providing. The "at" command needs the time to be specified in a specific format in order to work. In Ubuntu, the time format should be in HH:MM (24-hour clock), which is a mistake I made in the beginning not using 24 hour time format. 
+I had to make sure my Ubuntu system was up to date, so I used the command "sudo apt-get update" and "sudo apt-get upgrade."
 
 
 Cost-Benefit-Analysis:
