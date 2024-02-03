@@ -10,10 +10,10 @@
 
 
 
-For my Automation Project, I have created a "simple reminder program," to help me remember to take certain vitamins I need during the winter. I grew up in Canada so I am used to long, dark, cold winters. This problem causes many individuals to experience very low vitamin D levels, which is a vitamin that is also needed for our bodies to absorb calcium. Me and my family are annually prescribed vitamin D tablets, however, I always forget to take these tablets on a daily basis. Now that I am living in Germany, I want to make it a priorityy to take the necessary vitamins I need to stay healthy and prevent illness. With this automation, it has encouraged and reminded me to take my tablets daily, and has helped me with my forgetfulness.
+          For my Automation Project, I have created a "simple reminder program," to help me remember to take certain vitamins I need during the winter. I grew up in Canada so I am used to long, dark, cold winters. This problem causes many individuals to experience very low vitamin D levels, which is a vitamin that is also needed for our bodies to absorb calcium. Me and my family are annually prescribed vitamin D tablets, however, I always forget to take these tablets on a daily basis. Now that I am living in Germany, I want to make it a priorityy to take the necessary vitamins I need to stay healthy and prevent illness. With this automation, it has encouraged and reminded me to take my tablets daily, and has helped me with my forgetfulness.
 
 
-In my blog I will also discuss the fascinating realm of AI's potential to shape the future of nutrition and medicine, exploring innovative technologies and their impact on our futures food production, supply chains, personalized dietary recommendations, and overall health. I am very  passionate about studying Nutrition, as I studied it back home, and I have gained a new interest to combine Nutrition with artificial intelligence technology. I am exploring the possibilities AI presents in optimizing nutrition, reducing food waste, and revolutionizing the way we approach healthy living. I hope you enjoy my blog, and how our evolving technology meets the world of nutrition, creating a healthier and more sustainable future for everyone on the planet.
+          In my blog I will also discuss the fascinating realm of AI's potential to shape the future of nutrition and medicine, exploring innovative technologies and their impact on our futures food production, supply chains, personalized dietary recommendations, and overall health. I am very  passionate about studying Nutrition, as I studied it back home, and I have gained a new interest to combine Nutrition with artificial intelligence technology. I am exploring the possibilities AI presents in optimizing nutrition, reducing food waste, and revolutionizing the way we approach healthy living. I hope you enjoy my blog, and how our evolving technology meets the world of nutrition, creating a healthier and more sustainable future for everyone on the planet.
 
 
 # My Automation Project:  A Notification to remind me to take my vitamins!  (at a certain time during the day.)
@@ -102,6 +102,27 @@ I wanted to quickly test my script without waiting for the scheduled time, so I 
 
 I did encounter several problems along the way. Many times when i tried to execute a certain command, I had recieved alot of "Syntax Error" while trying to run the script. So I had to go back many times and check any mistakes I have made. I had to check for Errors in the message, and review the script. Also when I was checking to see if the project was working and I typed the "at" command, it showed me a pop up that said "Garbled Time" indicating that something was wrong, so I also had to research ways to avoid this. The "garbled time" error with the "at" command occurs when there's an issue with the time format tha I was providing. The "at" command needs the time to be specified in a specific format in order to work. In Ubuntu, the time format should be in HH:MM (24-hour clock), which is a mistake I made in the beginning not using 24 hour time format. 
 I had to make sure my Ubuntu system was up to date, so I used the command "sudo apt-get update" and "sudo apt-get upgrade."
+Another problem I ran in to was connecting my work on Ubuntu to my mac. To do this I had to Enable "SSH" on Ubuntu.
+To make sure my Ubuntu machine had the SSH server installed and running following command:
+
+
+<img width="370" alt="Screenshot 2024-02-03 at 13 53 09" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/a0d974ef-aeaa-4e51-a172-7a62459a5a7c">
+
+
+
+
+
+<img width="347" alt="Screenshot 2024-02-03 at 13 53 14" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/3e4945bd-875a-46d8-aa8c-2eee154f3388">
+
+
+Next was a very Important step with connecting my mac with ubuntu. I learned about a website cal "Todoist.com." With this website I made an account, and also made an account on Ubuntu. I was able to connect and sync both devices together, so that whatever I do on my mac, also happens on my ubuntu software, and vice versa. 
+
+
+
+
+
+
+
 
 
 Cost-Benefit-Analysis:
