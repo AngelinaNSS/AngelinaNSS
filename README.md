@@ -76,7 +76,7 @@ To make sure that my automation was running properly, there were three ways that
 
 - The first way was to wait for the Time: 15:30 for a notification to pop up on my screen.
 
-- The second was to check, I opened Terminal on my Ubuntu and typed the command 'atq'. 
+- The second was to check, I opened Terminal on my Ubuntu and typed the command 'atq'to "view scheduled jobs" for the day. 
 Just like the 'at' command, I also had to manually install this: for which I used the command -
 
 <img width="396" alt="Screenshot 2024-02-02 at 19 22 54" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/edcf4281-84e4-43be-9fd1-f7fac084b2c6">
