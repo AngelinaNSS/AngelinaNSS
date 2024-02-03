@@ -1,6 +1,6 @@
 # Introduction
 
-# Have you ever needed to take medication or vitamins at a certain scheduled time? 
+# Do you ever forget to take medication or vitamins at a certain scheduled time? 
 
 
 For my Automation Project, I have created a "simple reminder program," to help me remember to take certain vitamins I need during the winter. I grew up in Canada so I am used to long, dark, cold winters. This problem causes many individuals to experience very low vitamin D levels, which is a vitamin that is also needed for our bodies to absorb calcium. Me and my family are annually prescribed vitamin D tablets, however, I always forget to take these tablets on a daily basis. Now that I am living in Germany, I want to make it a priorityy to take the necessary vitamins I need to stay healthy and prevent illness. With this automation, it has encouraged and reminded me to take my tablets daily, and has helped me with my forgetfulness.
