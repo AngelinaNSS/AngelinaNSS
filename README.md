@@ -1,6 +1,13 @@
 # Introduction
 
+
+
+
+
 # Do you ever forget to take medication or vitamins at a certain scheduled time? 
+
+
+
 
 
 For my Automation Project, I have created a "simple reminder program," to help me remember to take certain vitamins I need during the winter. I grew up in Canada so I am used to long, dark, cold winters. This problem causes many individuals to experience very low vitamin D levels, which is a vitamin that is also needed for our bodies to absorb calcium. Me and my family are annually prescribed vitamin D tablets, however, I always forget to take these tablets on a daily basis. Now that I am living in Germany, I want to make it a priorityy to take the necessary vitamins I need to stay healthy and prevent illness. With this automation, it has encouraged and reminded me to take my tablets daily, and has helped me with my forgetfulness.
@@ -93,7 +100,7 @@ I wanted to quickly test my script without waiting for the scheduled time, so I 
 
 
 
-I did encounter several problems along the way. Many times when i tried to execute a certain command, I had recieved alot of "Syntax Error" while trying to run the script. So I had to go back many times and check any mistakes I have made. I had to check for Errors in the message, and review the script. I also had to make sure my Ubuntu system was up to date, so I used the command "sudo apt-get update" and "sudo apt-get upgrade."
+I did encounter several problems along the way. Many times when i tried to execute a certain command, I had recieved alot of "Syntax Error" while trying to run the script. So I had to go back many times and check any mistakes I have made. I had to check for Errors in the message, and review the script. Also when I was checking to see if the project was working and I typed the "at" command, it showed me a pop up that said "Garbled Time" indicating that something was wrong, so I also had to research ways to avoid this. I had to make sure my Ubuntu system was up to date, so I used the command "sudo apt-get update" and "sudo apt-get upgrade."
 
 
 Cost-Benefit-Analysis:
@@ -101,6 +108,12 @@ Cost-Benefit-Analysis:
 My Automation project took me about two weeks to create. However, it took me several weeks trying to brainstorm what to automate. I came up with different ideas, but none seemed worth investing time into. Until I came up with this project, that will benefit me at the moment, and will also benefit me in the future. I consider myself to be a busy person, and I am often very forgetful of tasks i need to fulfill unless I am reminded or write them down. Now with the success of my project I am no longer forgetful to take my much needed vitamins during the cold winter months. And with learning how to automate this project, I can create new automations in the future to benefit me.
 
 I beleive that my automation project is economically beneficial because it is important to get a balance source of vitamins and minerals for overall health. If people are regularly taking their nutrients, it can improve their health, and with a healthy individual that can lead to increased productivity. If employees or individuals maintain better health by taking their vitamins regularly, they may experience fewer sick days and higher energy levels. This can contribute to better performance at work or in daily activities. Another example includes "Reduced Healthcare Costs": By promoting preventive health measures, like vitamin intake, there may be a reduction in healthcare costs associated with treating illnesses or conditions that could have been prevented with lifestyle. Healthier individuals might require fewer medical interventions and medications, saving them the cost. 
+
+
+
+
+
+
 
 
 # The Future of Medicine and Nutrition with technological advancements 
