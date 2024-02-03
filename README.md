@@ -113,7 +113,10 @@ To make sure my Ubuntu machine had the SSH server installed and running followin
 <img width="347" alt="Screenshot 2024-02-03 at 13 53 14" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/3e4945bd-875a-46d8-aa8c-2eee154f3388">
 
 
-Next was a very Important step with connecting my mac with ubuntu. I learned about a website cal "Todoist.com." With this website I made an account, and also made an account on Ubuntu. I was able to connect and sync both devices together, so that whatever I do on my mac, also happens on my ubuntu software, and vice versa. 
+
+
+
+Next was a very Important step with connecting my mac with ubuntu. I learned about a website cal "Todoist.com." With this website I made an account, and also made an account through Ubuntu. I was able to connect and sync both devices together, so that whatever I do on my mac, also happens on my ubuntu software, and vice versa. 
 
 
 
