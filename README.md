@@ -141,7 +141,7 @@ The "paplay" I had to install in order to start choosing what sound I want to he
 
 
 I also wanted to make sure that my automation was able to run automatically everyday at the same time. After searching online, I found a command called "cron." This enabled me to have the reminder message pop up automatically every day at the same time.
-'cron' allows you to schedule tasks at predefined times. The command I used: crontab -e. And I had to find a command to let me adjust the time that I wanted the chime to go off. 
+'cron' allows you to schedule tasks at predefined times. The command I used: crontab -e. And I had to find a command to let me adjust the time that I wanted the chime to go off, so I used the command "echo."
 
 
 
