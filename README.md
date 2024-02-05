@@ -119,10 +119,41 @@ To make sure my Ubuntu machine had the SSH server installed and running followin
 Next was a very Important step with connecting my mac with ubuntu. I learned about a website cal "Todoist.com." With this website I made an account, and also made an account through Ubuntu. I was able to connect and sync both devices together, so that whatever I do on my mac, also happens on my ubuntu software, and vice versa. 
 
 
+<img width="344" alt="Screenshot 2024-02-04 at 18 59 06" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/51980e60-da43-4deb-bdd7-ac5eafcfaec6">
+
+The photo above is a screenshot of my mac in the process of connecting my ubuntu automation, to my regular desktop.
+
+
+
+I also wanted to connect the reminder to a sound, or a chime. So I not only see the message, "take your vitamins" but also to hear it. I was able to add the sound by using the terminal on my ubuntu. I used the following commands: 
+
+
+
+<img width="548" alt="Screenshot 2024-02-04 at 18 32 37" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/330524c5-3835-4e29-b28d-547bb72044a4">
+
+
+The "paplay" I had to install in order to start choosing what sound I want to hear. While adjusting the sound settings on my terminal to make it audible.
+
+
+
+<img width="422" alt="Screenshot 2024-02-04 at 17 31 53" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/768b424d-14d5-48c3-aa2f-9b6b68759111">
+
+
+
+I also wanted to make sure that my automation was able to run automatically everyday at the same time. After searching online, I found a command called "cron." This enabled me to have the reminder message pop up automatically every day at the same time.
+'cron' allows you to schedule tasks at predefined times. The command I used: crontab -e. And I had to find a command to let me adjust the time that I wanted the chime to go off. 
+
+
+
+<img width="519" alt="Screenshot 2024-02-04 at 18 27 53" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/4e0d80c1-0f65-4624-9f5c-86a4d8ede6d5">
+
+<img width="261" alt="Screenshot 2024-02-04 at 18 27 57" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/f2704f98-c5bf-4fc8-8b9c-335bfdde5f21">
 
 
 
 
+
+<img width="422" alt="Screenshot 2024-02-04 at 17 31 53" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/2928efd4-d2ee-4789-b8bb-9b866dc01d40">
 
 
 
