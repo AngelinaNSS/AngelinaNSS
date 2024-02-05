@@ -153,9 +153,6 @@ I also wanted to make sure that my automation was able to run automatically ever
 
 
 
-<img width="422" alt="Screenshot 2024-02-04 at 17 31 53" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/2928efd4-d2ee-4789-b8bb-9b866dc01d40">
-
-
 
 Cost-Benefit-Analysis:
 
