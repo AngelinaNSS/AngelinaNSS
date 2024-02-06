@@ -18,3 +18,9 @@ If I had missed only one colon, or a bracket, the code would not run at all! Thi
 
 Testing and Debugging: Ensuring the reliability of my "alarm reminder" through debugging was crucial but can very time-consuming.
 A Solution I was able to learn and use was PyCharm's built-in debugging tools, such as breakpoints and variable inspection, which helped me to identify and resolve issues in my code. 
+
+
+In summary, creating an alarm reminder using PyCharm offered me numerous advantages rather than using ubuntu, such as debugging tools, efficient code management, and error handeling. 
+With attention to detail, and effective problem-solving, PyCharm was a valuable tool for me in creating a functional and efficient alarm reminder to help me stay organized and on track with my daily routines, (to remind me to take my vitamins).
+Using many sources on the the internet and videos, I was able to learn very much about the use of pycharm and the beginning of how to create codes, in the future I will use these mistakes I've made creating my automation, to learn from and create better, more complex and successful codes in the future.
+
