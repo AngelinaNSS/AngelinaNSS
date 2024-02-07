@@ -1,0 +1,26 @@
+Possible solutions 
+
+Working on my automation project I have made several mistakes along the way, and have learned how to implement many solutions too.
+In the Beginning, I was using Ubnuntu to create my project. I was working on ubuntu for a while, before my computer crashed and unfortuately I lost all of my work.
+I instead began using pycharm, to recreate my project. 
+How this changed helped me instead, was that it was very user friendly, and allowed me to develop the alarm system. 
+Its ability to do syntax highlighting, and its error detection capabilities provided aid for the coding process. It helped to reduce the likelihood of bugs and syntax errors, which I was constantly recieving while using the ubuntu terminal.
+PyCharm allowed for endless navigation within my project, it enhanced my productivity by reducing the time spent on mundane tasks such as code refactoring and debugging.
+Also, a solution that helped me was PyCharm's integration with version control systems like Git! This allowed me to organize my project, and was easily accessible. 
+
+One of my biggest problems to overcome while create my project was constantly recieving "syntax errors." I would have to go back often and re-read my code to ensure that there were no mistakes, for this I had to use sources like: youtube, google, and chatgpt to help me find my mistakes. 
+The "finding syntax errors" on pycharm also helped me very much in finding solutions to make my code run smoothly.
+
+As a first time user of Pycharm this semester, what I learned about the app, is that it's extremely sensitve to cases, letters, brackets, and other variables.
+I had to do alot of research as well to learn about common codes that are used with pycharm.
+for example: import, if __name__ == "__main__":, def, etc)
+If I had missed only one colon, or a bracket, the code would not run at all! This was very frustrating at the time because the process seemed never ending. 
+
+Testing and Debugging: Ensuring the reliability of my "alarm reminder" through debugging was crucial but can very time-consuming.
+A Solution I was able to learn and use was PyCharm's built-in debugging tools, such as breakpoints and variable inspection, which helped me to identify and resolve issues in my code. 
+
+
+In summary, creating an alarm reminder using PyCharm offered me numerous advantages rather than using ubuntu, such as debugging tools, efficient code management, and error handeling. 
+With attention to detail, and effective problem-solving, PyCharm was a valuable tool for me in creating a functional and efficient alarm reminder to help me stay organized and on track with my daily routines, (to remind me to take my vitamins).
+Using many sources on the the internet and videos, I was able to learn very much about the use of pycharm and the beginning of how to create codes, in the future I will use these mistakes I've made creating my automation, to learn from and create better, more complex and successful codes in the future.
+
