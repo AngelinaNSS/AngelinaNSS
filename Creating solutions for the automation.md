@@ -24,15 +24,16 @@ PyCharm project directory.
 
 Using PyCharm, you can use the 'schedule library' to schedule the reminder task, and the "plyer" library to display notifications.
 
+
+Testing and Debugging: Ensuring the reliability of my "alarm reminder" through debugging was crucial but can very time-consuming.
+A Solution I was able to learn and use was PyCharm's built-in debugging tools, such as breakpoints and variable inspection, which helped me to identify and resolve issues in my code. 
+
+
 <img width="879" alt="Screenshot 2024-02-07 at 02 58 02" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/2774e04a-006c-4477-ad83-b04f2d188e89">
 
 
 
 <img width="505" alt="Screenshot 2024-02-07 at 02 42 27" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/d0c322ab-b1e5-4fc9-8123-025f8d0361d6">
-
-
-Testing and Debugging: Ensuring the reliability of my "alarm reminder" through debugging was crucial but can very time-consuming.
-A Solution I was able to learn and use was PyCharm's built-in debugging tools, such as breakpoints and variable inspection, which helped me to identify and resolve issues in my code. 
 
 
 In summary, creating an alarm reminder using PyCharm offered me numerous advantages rather than using ubuntu, such as debugging tools, efficient code management, and error handeling. 
