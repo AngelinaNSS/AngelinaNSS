@@ -16,7 +16,7 @@ The functionality of my reminder system revolves around scheduling daily reminde
 Using Pycharm, I was able to continuously check the current time and trigger reminders when the specified time arrived. PyCharm's debugging capabilities were very invaluable for meduring this phase, helping me identify and fix any issues efficiently.
 PyCharm's features like syntax highlighting, and version control integration, increased my productivity and saved time. 
 
-With teh built-in terminal it also provided a convenient way for me to execute and test the script within the same environment.
+With the built-in terminal it also provided a convenient way for me to execute and test the script within the same environment.
 
 The benefits of automating my daily vitamin intake with this reminder system have been significant!
 Not only have I become more consistent in taking my vitamins, but I've also experienced improvements in my overall health and well-being. 
