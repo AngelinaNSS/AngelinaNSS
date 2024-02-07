@@ -1,41 +1,48 @@
-   Intro to my automation project and blog:
+# Intro to my automation project and blog:
    
    
    For my Automation Project, I have created a "simple reminder program," to help me remember to take certain vitamins I need during the winter.
 I grew up in Canada so I am used to long, dark, cold winters.
 This problem causes many individuals to experience very low vitamin D levels, which is a vitamin that is also needed for our bodies to absorb calcium.
-Me and my family are annually prescribed vitamin D as well as B12 tablets; however, I always forget to take these tablets on a daily basis, reason being consumed in my studies, and other daily tasks.
+Me and my family are annually prescribed vitamin D as well as B12 tablets; however, I always forget to take these tablets on a daily basis, reason being consumed in my studies, and other daily tasks. 
 
 What I have learned from research is the potential dangers and risks of neglecting to take required vitamins.
 It can pose various risks to your health and well-being. 
 Vitamins play essential roles in numerous physiological functions, and deficiencies can lead to various health complications.
-A list several reasons why it can be dangerous to not take your required vitamins includ:
+A list several reasons why it can be dangerous to not take your required vitamins include:
 
-Weakened Immune System: 
+- Weakened Immune System: 
 Certain vitamins, such as vitamin C, vitamin D, and vitamin E, are crucial for supporting immune function.
 A deficiency in these vitamins can weaken your immune system, making you more susceptible to infections, illnesses, and slower recovery times.
 
-Increased Risk of Chronic Diseases: 
+- Increased Risk of Chronic Diseases: 
 Vitamins like vitamin A, vitamin C, and vitamin E are antioxidants that help protect cells from damage caused by free radicals.
 Without an adequate intake of these vitamins, you may be at a higher risk of developing chronic diseases such as cardiovascular disease, cancer, and neurodegenerative disorders.
 
-Impaired Cognitive Function: B vitamins, particularly B6, B9 (folate), and B12, play key roles in brain health and cognitive function. 
+- Impaired Cognitive Function: B vitamins, particularly B6, B9 (folate), and B12, play key roles in brain health and cognitive function. 
 Deficiencies in these vitamins have been linked to cognitive decline, memory problems, and mood disorders such as depression and anxiety.
 
-Hormonal Imbalances: Certain vitamins, such as vitamin D, are involved in regulating hormone production and function.
+- Hormonal Imbalances: Certain vitamins, such as vitamin D, are involved in regulating hormone production and function.
 Deficiencies in these vitamins can disrupt hormonal balance, potentially leading to issues such as menstrual irregularities, and thyroid disorders.
 
-Poor Bone Health: Vitamins D and K are essential for bone health, as they help in calcium absorption and bone mineralization. 
+- Poor Bone Health: Vitamins D and K are essential for bone health, as they help in calcium absorption and bone mineralization. 
 Without sufficient levels of these vitamins, you may be at risk of developing osteoporosis or experiencing bone fractures and weakness.
 
-Fatigue and Weakness: Many vitamins, including B vitamins and iron, are involved in energy metabolism. 
+- Fatigue and Weakness: Many vitamins, including B vitamins and iron, are involved in energy metabolism. 
 Without an adequate intake of these vitamins, you may experience fatigue, weakness, impacting your ability to perform daily activities effectively.
+
+
 
 
 Now that I am living in Germany, I want to make it a priority to take the necessary vitamins I need to stay healthy and prevent illness.
 With excellent and affordable resources to maintain proper nutrient and vitamin levels, I discovered in Germany that there are certain tablets that
 can be put in water to create a delicious drink, as well as a large variety of vitamins and minerals available at almost any store.
-Compared to the options in my city back home in Winnipeg, there are alot more options in this country for getting adequate nutrient intake during the winter months.
+Compared to the options in my city back home in Winnipeg, there are alot more options in this country for getting adequate nutrient intake during the winter months, when a person is more susceptible to deficiency related symptoms. 
+
+
+<img width="324" alt="Screenshot 2024-02-07 at 02 29 22" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/34bb133d-86d6-49e8-9552-dc8282f43bde">
+
+
 
 With this automation, it has encouraged and reminded me to take my tablets daily, and has helped me with my forgetfulness!
 
