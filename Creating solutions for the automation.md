@@ -11,10 +11,25 @@ Also, a solution that helped me was PyCharm's integration with version control s
 One of my biggest problems to overcome while create my project was constantly recieving "syntax errors." I would have to go back often and re-read my code to ensure that there were no mistakes, for this I had to use sources like: youtube, google, and chatgpt to help me find my mistakes. 
 The "finding syntax errors" on pycharm also helped me very much in finding solutions to make my code run smoothly.
 
+<img width="701" alt="Screenshot 2024-02-07 at 02 42 15" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/56380af4-50bc-4aa1-9bd6-48d68a81b8a0">
+
+
 As a first time user of Pycharm this semester, what I learned about the app, is that it's extremely sensitve to cases, letters, brackets, and other variables.
 I had to do alot of research as well to learn about common codes that are used with pycharm.
 for example: import, if __name__ == "__main__":, def, etc)
-If I had missed only one colon, or a bracket, the code would not run at all! This was very frustrating at the time because the process seemed never ending. 
+If I had missed only one colon, or a bracket, the code would not run at all! This was very frustrating at the time because the process seemed never ending. I also had to install a few commands while working on my project. An important one that played a role in my project was called: 'plyer'.To create an executable code to remind me to take my vitamins at 15:30
+
+One of the first steps I took was to create a Python script named "vitamin_reminder.py" in my
+PyCharm project directory.
+
+Using PyCharm, you can use the 'schedule library' to schedule the reminder task, and the "plyer" library to display notifications.
+
+<img width="879" alt="Screenshot 2024-02-07 at 02 58 02" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/2774e04a-006c-4477-ad83-b04f2d188e89">
+
+
+
+<img width="505" alt="Screenshot 2024-02-07 at 02 42 27" src="https://github.com/AngelinaNSS/AngelinaNSS/assets/148863357/d0c322ab-b1e5-4fc9-8123-025f8d0361d6">
+
 
 Testing and Debugging: Ensuring the reliability of my "alarm reminder" through debugging was crucial but can very time-consuming.
 A Solution I was able to learn and use was PyCharm's built-in debugging tools, such as breakpoints and variable inspection, which helped me to identify and resolve issues in my code. 
